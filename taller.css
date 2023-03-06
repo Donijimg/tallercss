@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color:gray;
+    margin: 2px 25%;
+}
+h1{
+    font-size: 33px;
+}
+h2{
+    font-size: 33px;
+}
+#negrita{
+    font-weight: bold
+}
+
+#foto0{
+    margin: 1px 1px;
+    width: 140px;
+    height: 75px;
+}
+
+#foto1{
+    margin: 1px 1px;
+    width: 140px;
+    height: 75px;
+}
+
+#foto2{
+    margin: 1px 1px;
+    width: 140px;
+    height: 75px;
+}
+
+#foto3{
+    margin: 1px 1px;
+    width: 140px;
+    height: 60px;
+}
+
+#foto4{
+    margin: 1px 1px;
+    width: 140px;
+    height: 75px;
+}
+
+#boton{
+    color: #000;
+    background-color: rgb(255, 221, 0);
+    font-size:20px;
+    font-weight: 450;
+    text-align: center;
+    border:rgb(255, 166, 0) solid 4px;
+    width: 400px;
+    height: 50px;
+    padding:10px 0;
+    margin: 20px auto;
+    letter-spacing: 5px;
+}
